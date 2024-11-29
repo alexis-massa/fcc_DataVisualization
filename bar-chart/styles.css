@@ -1,0 +1,14 @@
+.bar {
+  text-align: center;
+  fill: blue;
+  display: inline-block;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+#title {
+  font-size: 20px;
+  color: black;
+}
